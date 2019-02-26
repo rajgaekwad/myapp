@@ -34,6 +34,4 @@ E:\mynewapp\WebApplication2\WebApplication2\bin\Microsoft.AspNet.Membership.Open
 E:\mynewapp\WebApplication2\WebApplication2\bin\Microsoft.AspNet.FriendlyUrls.xml
 E:\mynewapp\WebApplication2\WebApplication2\obj\Debug\WebApplication2.dll
 E:\mynewapp\WebApplication2\WebApplication2\obj\Debug\WebApplication2.pdb
-E:\mynewapp\WebApplication2\webapplication2\obj\Debug\WebApplication2.csprojAssemblyReference.cache
-E:\mynewapp\WebApplication2\webapplication2\obj\Debug\WebApplication2.csproj.CoreCompileInputs.cache
-E:\mynewapp\WebApplication2\webapplication2\obj\Debug\WebApplication2.csproj.CopyComplete
+E:\mynewapp\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csprojResolveAssemblyReference.cache
